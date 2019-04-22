@@ -1,3 +1,5 @@
+I forked this repo and changed print... to print(...) to support Python3, and used relative imports
+
 # linedraw
 Convert images to vectorized line drawings for plotters.
 ![Alt text](/screenshots/1.png?raw=true "")
